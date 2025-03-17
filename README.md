@@ -1,5 +1,3 @@
-Here’s a README file for your GitHub repository based on the provided Smile Guru data analysis and visualization:
-
 ---
 
 ## 📊 Smile Guru Data Analysis & Visualization
