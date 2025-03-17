@@ -1,5 +1,3 @@
----
-
 ## 📊 Smile Guru Data Analysis & Visualization
 
 ### 📝 Overview
